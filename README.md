@@ -3,16 +3,16 @@
 This repository contains my solutions and exercises for the Data Engineering Zoomcamp 2025.
 
 
-data-engineering-zoomcamp/
-├── week_1/
-│   ├── docker-compose.yaml  # Define Docker services
-│   ├── requirements.txt     # Python dependencies
-│   ├── README.md            # Week 1 instructions
-│   ├── scripts/             # Python scripts for automation
-│   │   ├── load_data.py     # Python script for data ingestion
-│   └── sql/                 # SQL queries
-│       ├── validate_data.sql # SQL validation queries
-├── README.md                # General repo documentation
+data-engineering-zoomcamp/  
+├── week_1/    
+│   ├── docker-compose.yaml  # Define Docker services  
+│   ├── requirements.txt     # Python dependencies  
+│   ├── README.md            # Week 1 instructions  
+│   ├── scripts/             # Python scripts for automation  
+│   │   ├── load_data.py     # Python script for data ingestion  
+│   └── sql/                 # SQL queries  
+│       ├── validate_data.sql # SQL validation queries  
+├── README.md                # General repo documentation  
 
 
 ## Weeks
