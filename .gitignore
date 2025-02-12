@@ -3,6 +3,5 @@ __pycache__/
 *.csv.gz
 *.log
 *.parquet
-*.json
 pgdata/
 pgadmindata/

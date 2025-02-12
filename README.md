@@ -17,8 +17,8 @@ data-engineering-zoomcamp/
 
 ## Weeks
 - [Week 1: Docker & SQL](week_1/README.md)
-- Week 2: TBD
-- Week 3: TBD
+- [Week 2: Workflow Orchestration](week_2/)
+- [Week 4: Data Warehouse](week_4/README.md)
 
 ## Setup Instructions
 1. Clone the repository.
