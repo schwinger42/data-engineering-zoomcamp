@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS total_records FROM `ny-taxi-450717.yellow_taxi_data.materialized_yellow_trip` LIMIT 1000;
