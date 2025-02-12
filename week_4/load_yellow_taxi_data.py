@@ -9,7 +9,7 @@ import time
 BUCKET_NAME = "dezoomcamp_hw3_2025_schwinger42"
 
 #If you authenticated through the GCP SDK you can comment out these two lines
-CREDENTIALS_FILE = "ny-taxi-450717-1471b6731f4a.json"
+CREDENTIALS_FILE = "your_gcp_auth.json"
 client = storage.Client.from_service_account_json(CREDENTIALS_FILE)
 
 
