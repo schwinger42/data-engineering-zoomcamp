@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ny-taxi-450717",
+  "private_key_id": "1471b6731f4ae4e17f18dc34b56dbe1c2393bab2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSidxqZcrXF4hC\nWaX6w3/6Tezziw8G+duOCq2D9WP4Ft4D6eNV5BjYyhwKMh61lH4X4HI3PoCekIhI\nXVPx2WxwCs8LzpJVQL9cXCGS7z8Jn9jlswshTH/W1OWeRmzIzIJuTwnIqGuk6V3p\nY/N4BCkPBGPbgeFrOY+1hn19jLelms+Ge660GglDlrgVZT11J4MrW3Ft3zc3b2O0\nSEODF2Nx9zA8Gvgk1ynRovyCuhf8tf+lpqChqTexv+jIgbHKP6zrZPnxwlCXDmDe\nDQD9V7AztbIXKTPStaePX0jk93abxbipz7ujIJiIyQTjmB72SDTFGYXKanNlodg6\ntHjDBl+BAgMBAAECggEAB7S04OojcDYuQIGjByclYWNG/55OFv7SpeCNNAWWe+MF\nSngP2rduUGV9yKd5Z/ERbxiqyO7s0pR6e4Zfi2CfTDEKpu32UgIKo2+7hZThNWoG\nJ5DHwrjZdtGmlYZ8jVP70+iCH4mDx533W0uZ77Nq+VLbcXKeCQZzi9yGWDDV2MvR\nPgtPLB5cT2Y3lRwSnJAVAl634BsAuucZU/CBHR6TRiiT0S6Y5KaJ2zwE759VlHmS\nynbLa/RmNZPhiN0RyuqRW3RcnNHP/+QfftP7GveiI9SlqJT7xNs9gqVOeMrW1Je+\n5K6RM+pO6dyZgCGfbdAZPxbfcDfGBbl5ZakWDQd/hQKBgQDK8z8bxDaytn1P4bvO\nK/eawwks6tBMOObsdWNMPSTlKYlfbXCnxQxM7wlzzgHlhcyMNGjVDyGrSckQPU29\nZipF0O1xKL7MD6YAdO+t8hkpVhTkBgvvYWs4cf0QsDSlhoBfdX426Nqz4IocLlfE\nWl0ceL7+tHcPo1g5HYuGN7rd/wKBgQC417undOMiBug1hG6MxzEgzal7JZ7pw2SF\nYZJcTLrgYSauIrJhXceOiOBi36Jki21UvIUKPECF2KSh3dVxtJplfgaFmjWY2srY\nenxipZ8PfC+pgM+w5+sNvWAn21PLG8PQeCDZAG5wZLwlZDm52wTKwkE7jyNh9sSZ\nNfvUjOnCfwKBgCVu6Fz+u/gKoOJzCGjmwyzQfIjEZtcoR6+ll0MgpAWAu83WKclI\nFxS5okyx2rezDh9uK0fhGpy1Z1iPdh9REMr/1kvg8BBDcqLy7qJu3SU6s2+7jcgB\nd/1ZSQwi9BLz1AnHahhGqtAywkagZZ/Z6wKtYs0oDC3eOw+N24ZOETGRAoGAO4Ig\nxPGpqivFGG2xVZtPYrszhBUBi0q/kv1trE97nn9If6ll+ljBxU6lxs8ureYBZdVn\nk3sAXtb3cbFEZV36kxA2s06JUNOnmHgekXe2tLqLcaupsc+Iahz81vgSiwI+UWBL\nWvF7nK2hsPwKZZ5wdYKCk9UqVACpHJY3pB9VpqsCgYEAloJRQxZq6iHpILC+jA6R\ncuAACAqcjA6iCyjTEp5LpvGmz/irCh9WNdIoy4pp0IB2BaCcyr8gfPBy8PP40JbG\n+WetuZNnzLdDEwWKpHa8zr3p7zZPzqH2VrleNjMN3ExiDfYOpJ1zwzbBFE9vfbDt\nuvJVz8WMKz4b0LSsd4Mysp8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcs-upload-service-account@ny-taxi-450717.iam.gserviceaccount.com",
+  "client_id": "111725294701118242669",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcs-upload-service-account%40ny-taxi-450717.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -5,27 +5,29 @@ This repository contains my solutions and exercises for the Data Engineering Zoo
 
 data-engineering-zoomcamp  
 ├── week_1  
-│   ├── scripts  
-│   │   ├── download_and_load.py  
-│   │   ├── green_tripdata_2019_10.csv  
-│   │   ├── green_tripdata_2019_03.csv  
-│   │   └── taxi_zone_lookup.csv  
-│   ├── docker-compose.yaml  
-│   ├── taxi.ipynb  
-│   ├── README.md  
-│   └── requirements.txt  
+│&nbsp;&nbsp;&nbsp;├── scripts  
+│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── download_and_load.py  
+│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── green_tripdata_2019_10.csv  
+│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── green_tripdata_2019_03.csv  
+│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── taxi_zone_lookup.csv  
+│&nbsp;&nbsp;&nbsp;├── docker-compose.yaml  
+│&nbsp;&nbsp;&nbsp;├── taxi.ipynb  
+│&nbsp;&nbsp;&nbsp;├── README.md  
+│&nbsp;&nbsp;&nbsp;└── requirements.txt  
 ├── week_2  
-│   ├── docker-compose.yaml  
-│   ├── question_3.sql  
-│   ├── question_4.sql  
-│   └── question_5.sql  
+│&nbsp;&nbsp;&nbsp;├── docker-compose.yaml  
+│&nbsp;&nbsp;&nbsp;├── question_3.sql  
+│&nbsp;&nbsp;&nbsp;├── question_4.sql  
+│&nbsp;&nbsp;&nbsp;└── question_5.sql  
 ├── week_4  
-│   ├── load_yellow_taxi_data.py  
-│   ├── sql_queries  
-│   │    └── (your .sql files here)    
-│   └── README.md  
+│&nbsp;&nbsp;&nbsp;├── load_yellow_taxi_data.py  
+│&nbsp;&nbsp;&nbsp;├── sql_queries  
+│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── (your .sql files here)    
+│&nbsp;&nbsp;&nbsp;└── README.md  
 ├── .gitignore  
 └── README.md  
+
+
 
 
 ## Weeks
