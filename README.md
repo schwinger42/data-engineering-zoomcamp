@@ -25,9 +25,7 @@ data-engineering-zoomcamp
 │&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── (your .sql files here)    
 │&nbsp;&nbsp;&nbsp;└── README.md  
 ├── .gitignore  
-└── README.md  
-
-
+└── README.md
 
 
 ## Weeks
