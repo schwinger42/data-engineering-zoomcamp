@@ -3,5 +3,7 @@ __pycache__/
 *.csv.gz
 *.log
 *.parquet
+*.parquet.*
 pgdata/
 pgadmindata/
+fhvhv/
