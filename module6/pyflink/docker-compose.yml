@@ -1,4 +1,3 @@
-version: "3.9"
 services:
   redpanda-1:
     image: redpandadata/redpanda:v24.2.18
@@ -36,7 +35,7 @@ services:
     build:
       context: .
       dockerfile: ./Dockerfile.flink
-    image: pyflink:1.16.0
+    image: pyflink:1.17.1
     platform: linux/arm64/v8
     container_name: "flink-jobmanager"
     pull_policy: never
@@ -65,7 +64,7 @@ services:
 
   # Flink task manager
   taskmanager:
-    image: pyflink:1.16.0
+    image: pyflink:1.17.1
     platform: linux/arm64/v8
     container_name: "flink-taskmanager"
     pull_policy: never
